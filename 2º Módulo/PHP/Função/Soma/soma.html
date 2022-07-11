@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<title> Soma </title>
+<meta charset="UTF-8" />
+<style>
+    ul{
+	    list-style: none;
+    }
+
+    .text{
+	    font-weight: bold;
+	    font-family: Segoe UI;
+    }
+			
+    .breakLine{
+        margin-bottom:6px;
+    }
+</style>
+
+<body>
+	<form method="POST" action="soma.php">
+		<ul>
+			<li class="text">Primeiro Número: </li>
+			<li class="breakLine"><input type="number" name="num_A" placeholder="Informe um Número" /></li>
+				
+			<li class="text">Segundo Número:</li>
+			<li class="breakLine"><input type="number" name="num_B" placeholder="Informe outro Número" /></li>
+				
+			<li class="text"></li>
+			<li><input type="submit" name="btnSubmit" value="Somar" /></li>				
+		</ul>
+	</form>
+
+</body>
+
+</html>
