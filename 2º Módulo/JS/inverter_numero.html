@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Index</title>
+<script type="text/javascript">
+function inverte(){
+var num1 =parseFloat(document.getElementById("numero1").value);
+var num2 =parseFloat(document.getElementById("numero2").value);
+var aux = num1;
+num1=num2;
+num2=aux;
+alert("Antes:\n"+"Número1="+document.getElementById("numero1").value+"\n"+"Número2="+document.getElementById("numero2").value+"\n\n"+"Invertido:\n"+"Número1="+num1+"\n"+"Número2="+num2+"\n\n");
+}
+
+ 
+
+function Limpar(){
+location.reload(true);
+}
+</script>
+<body>
+Primeiro número:<input id="numero1" type="number"><br />
+Segundo  número:<input id="numero2" type="number"><br />
+<button onclick="inverte()">Inverter</button>
+<button onclick="Limpar()">Limpar</button>
+</head>
+</body>
+</html>

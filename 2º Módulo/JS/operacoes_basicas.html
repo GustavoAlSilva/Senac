@@ -1,0 +1,34 @@
+<html>
+<head><title>Java Script - Operações Matemáticas</title>
+    <script>
+
+    function Calcular (f) {    
+        
+        f.resultado_soma.value = parseInt(f.num1.value) + parseInt(f.num2.value); 
+        f.resultado_sub.value = parseInt(f.num1.value) - parseInt(f.num2.value);
+        f.resultado_multi.value = parseInt(f.num1.value) * parseInt(f.num2.value); 
+    }
+          
+    </script>
+    </head>
+
+<body bgcolor="#FFFFEE">
+    <h2> Executa a operação matemática escolhida: </h2>
+
+    <form><pre>
+
+    Número 1: <input type="text" name="num1"> <br>
+    Número 2: <input type="text" name="num2"> <br><br>
+  
+    <input type="button" value="Resultado" onClick="Calcular(this.form)"> 
+  
+    Soma: <input type="text" name="resultado_soma"><br>
+    Subtração: <input type="text" name="resultado_sub"><br>
+    Multiplicação: <input type="text" name="resultado_multi"> <br><br>
+
+    <input type="reset" value="Limpar"> 
+
+    </pre></form>
+</body>
+</html>
+ 

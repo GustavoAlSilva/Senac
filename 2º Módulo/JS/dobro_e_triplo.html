@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<script>
+    function Calcular_Dobro (f) {
+        f.resultado_dobro.value=parseInt(f.num.value) *2;
+    }
+    function Calcular_Triplo (f) {
+        f.resultado_triplo.value=parseInt(f.num.value)*3;
+    }
+
+    function Calcular_Todos (f) {
+        Calcular_Dobro(f);
+        Calcular_Triplo(f);
+    }
+</script>
+</head>
+
+<body bgcolor="#FFFFEE">
+
+    <h1>Operações de Multiplicação</h1>
+
+    <form>
+        Informe um número: <input type="text" name="num" size="5"> <br><br>
+        <input type="button" value="DOBRO"onClick="Calcular_Dobro(this.form)">
+        <input type="button" value="TRIPLO"onClick="Calcular_Triplo(this.form)"> 
+        <input type="button" value="TODOS" onClick="Calcular_Todos(this.form)"><br><br><br>
+        Resultado Dobro: <input type="text" name="resultado_dobro" size="5"><br>
+        Resultado Triplo: <input type="text" name="resultado_triplo" size="5"> <br><br>
+        <input type="reset" value="LIMPAR" size="5">
+    </form>
+
+</body>
+</html>
+    

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fechar Janela</title>
+    <script language="JavaScript">
+        function abre1() {
+        window.open("simples.html") }
+
+        function abre2() {
+        window.open("simples.html","Simples","width=350,height=400") }
+
+        function abre3() {
+        window.open("simples.html","Simples","menubar,scrollbars,width=300,height=200") }
+    </script>
+</head>
+<body>
+<form>
+    Dê um clique no botão para abrir uma janela simples:
+    <input type="button" name="Abrir" value="Janela1" onClick="abre1()"><p><hr>
+    Dê um clique no botão para abrir uma janela de 350 pixels de largura e 400 pixels de altura, sem barras e menus:
+    <input type="button" name="Abrir" value= "Janela2" onClick="abre2()"><p><hr>
+    Dê um clique no botão para abrir uma janela com menu e barra de rolagens, mas sem barra de endereço e barra padrão:
+    <input type="button" name="Abrir" value= "Janela3" onClick="abre3()"><p><hr>
+</form> 
+
+</body>
+</html>

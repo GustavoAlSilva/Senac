@@ -1,0 +1,33 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Index</title>
+
+<script>
+    function Calcular (f) {
+        var resultado = parseInt(f.num.value)%2;
+        
+        if (resultado == 0){
+            f.resposta.value="PAR";
+        }
+        else
+            f.resposta.value="IMPAR";
+    }
+</script>
+
+</head>
+
+<body bgcolor="#FFFFEE">
+<h1> Par ou ímpar? </h1>
+<h3>Informe um número e o sistema irá informar se este é par ou ímpar </h3>
+
+<form>
+    Número: <input type="text" name="num"><br><br>
+    <input type="button" value="Verificar" onClick="Calcular(this.form)"><br><br>
+    Resultado: <input type="text" name="resposta"><br><br>
+    <input type="reset" name="Limpar">
+
+</form>
+
+</body>
+</html>
