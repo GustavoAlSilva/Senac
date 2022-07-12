@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>form</title>
+</head>
+<body>
+    <main>
+        <form name="form">
+            Nome:<input type="text" size="10" maxlength="40" name="nome"/><br/>
+            Senha:<input type="password" size="10" maxlength="10" name="senha"/><br/>
+            <input type="submit" value="Enviar"/>
+            <input type="reset" value="Limpar"/>
+        </form>
+        <form>
+            <p>Que tipo de sapatos você está usando?</p>
+            <label>Color:</label>    
+            <br />
+            <input type="radio" name="color" value="dark" /> Escuro <br />       
+            <input type="radio" name="color" value="light" /> Claro <br />        
+            <label>Size:</label> 
+            <br />
+            <input type="radio" name="size" value="small" /> Pequeno <br />       
+            <input type="radio" name="size" value="average" /> Normal <br />         
+            <input type="radio" name="size" value="big" /> Grande <br />
+            <input type="submit" value="Email Myself" />
+        </form>
+        <form>
+            <p>Que cor de sapatos você prefere?</p>
+            <input type="checkbox" name="shoes" value="black" /> Preto <br/>        
+            <input type="checkbox" name="shoes" value="white" /> Branco<br/>                                
+            <input type="checkbox" name="shoes" value="gray" /> Cinza <br/>                                
+            <input type="checkbox" name="shoes" value="black&white" /> Branco e Preto <br/>
+        </form>
+        <form>
+            <p>Preferência musical</p>
+            <select multiple name="music" size="4">  
+            <option value="emo" selected>Emo</option>      
+            <option value="metal/rock" >Metal/Rock</option>    
+            <option value="hiphop" >Hip Hop</option>
+            <option value="ska" >Ska</option>
+            <option value="jazz" >Jazz</option>
+            <option value="country" >Country</option>
+            <option value="classical" >Classical</option>      
+            <option value="alternative" >Alternative</option>        
+            <option value="oldies" >Oldies</option> 
+            <option value="techno" >Techno</option>      
+            </select>
+            <br />
+        </form>
+        <form>
+            <p>Nível de Educação?</p>
+            <select name="education">
+            <option>Escolha</option>
+            <option>Ensino Médio</option>
+            <option>Faculdade</option>
+            <option>Doutorado</option>
+            </select><br />
+        </form>
+    </main>
+</body>
+</html>
