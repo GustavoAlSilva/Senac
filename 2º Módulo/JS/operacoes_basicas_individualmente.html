@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Soma-js</title>
+    <script>
+    function Somar (f)
+    {f.resultado.value = parseInt(f.num1.value) + parseInt(f.num2.value) }
+    function Diminuir (f)
+    {f.resultado.value = parseInt(f.num1.value) - parseInt(f.num2.value) }
+    function Multiplicar (f)
+    {f.resultado.value = parseInt(f.num1.value) * parseInt(f.num2.value) }
+    </script>
+    </head>
+<body bgcolor="#FFFFEE">
+    <h2> Executa a operação matemática escolhida: </h2>
+    <form><pre>
+        Número 1: <input type="text" name="num1"> <br>
+        Número 2: <input type="text" name="num2"> <br>
+        <input type="button" value="Somar" onClick="Somar(this.form)">
+        <input type="button" value="Diminuir" onClick="Diminuir(this.form)">
+        <input type="button" value="Multiplicar" onClick="Multiplicar(this.form)">
+        <input type="text" name="resultado"> <br>
+        <input type="reset" value="Limpar">
+    </pre>
+    </form>
+</body>
+</html>
