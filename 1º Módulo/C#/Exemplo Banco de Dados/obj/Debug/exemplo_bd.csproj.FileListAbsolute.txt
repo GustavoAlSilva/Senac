@@ -1,0 +1,10 @@
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\bin\Debug\exemplo_bd.exe.config
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\bin\Debug\exemplo_bd.exe
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\bin\Debug\exemplo_bd.pdb
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\obj\Debug\exemplo_bd.csproj.AssemblyReference.cache
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\obj\Debug\exemplo_bd.Form3.resources
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\obj\Debug\exemplo_bd.Properties.Resources.resources
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\obj\Debug\exemplo_bd.csproj.GenerateResource.cache
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\obj\Debug\exemplo_bd.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\obj\Debug\exemplo_bd.exe
+C:\Users\gustavo.silva26\Downloads\exemplo_bd\exemplo_bd\obj\Debug\exemplo_bd.pdb

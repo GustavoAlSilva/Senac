@@ -1,0 +1,60 @@
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.exe
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.deps.json
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.runtimeconfig.json
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.runtimeconfig.dev.json
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.dll
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.pdb
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.AssemblyReference.cache
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.GenerateResource.cache
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.AssemblyInfoInputs.cache
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.AssemblyInfo.cs
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.dll
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.pdb
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.genruntimeconfig.cache
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.btn2.resources
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Form2.resources
+C:\Users\gustavo.silva26\Documents\jovem_programador\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Soma.resources
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.exe
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.deps.json
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.runtimeconfig.json
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.runtimeconfig.dev.json
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.dll
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.pdb
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.AssemblyReference.cache
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.btn2.resources
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Soma.resources
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.GenerateResource.cache
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.AssemblyInfoInputs.cache
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.AssemblyInfo.cs
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.dll
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.pdb
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.genruntimeconfig.cache
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Form2.resources
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Tabuada.resources
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Properties.Resources.resources
+C:\Users\gustavo.silva26\Downloads\exemplo01\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.ComboBox.resources
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.dll
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.pdb
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.exe
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.deps.json
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.runtimeconfig.json
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.runtimeconfig.dev.json
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.dll
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\bin\Debug\netcoreapp3.1\exemplo01.pdb
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.ComboBox.resources
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.btn2.resources
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Form2.resources
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Properties.Resources.resources
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Soma.resources
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.Tabuada.resources
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.GenerateResource.cache
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Exemplos\exemplo01 (1)\exemplo01\obj\Debug\netcoreapp3.1\exemplo01.genruntimeconfig.cache
