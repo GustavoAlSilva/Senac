@@ -1,0 +1,16 @@
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\bin\Debug\netcoreapp3.1\exemplo4.exe
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\bin\Debug\netcoreapp3.1\exemplo4.deps.json
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\bin\Debug\netcoreapp3.1\exemplo4.runtimeconfig.json
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\bin\Debug\netcoreapp3.1\exemplo4.runtimeconfig.dev.json
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\bin\Debug\netcoreapp3.1\exemplo4.dll
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\bin\Debug\netcoreapp3.1\exemplo4.pdb
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.csproj.AssemblyReference.cache
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.Form1.resources
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.csproj.GenerateResource.cache
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.AssemblyInfoInputs.cache
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.AssemblyInfo.cs
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.dll
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.pdb
+C:\Users\gustavo.silva26\Downloads\exemplo4\exemplo4\obj\Debug\netcoreapp3.1\exemplo4.genruntimeconfig.cache
